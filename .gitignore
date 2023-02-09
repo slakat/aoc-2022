@@ -1,0 +1,4 @@
+# Ignore desktop services file
+*.DS_Store
+
+
